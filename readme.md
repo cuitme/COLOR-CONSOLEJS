@@ -3,7 +3,7 @@
 Proyek ini adalah skrip **ping network** menggunakan **Node.js** dengan warna pada output konsol menggunakan library `color`.
 
 # Screenshoot
-- [hasil ping](https://github.com/cuitme/COLOR-CONSOLEJS/blob/main/ss.png)
+- ![hasil ping](https://github.com/cuitme/COLOR-CONSOLEJS/blob/main/ss.png)
 
 ## 🚀 Fitur
 - Melakukan **ping** ke alamat IP atau domain yang ditentukan.
